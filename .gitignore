@@ -47,3 +47,9 @@ env/
 
 # Crash logs
 hs_err_pid*
+
+# Database files
+backend/data/
+*.db
+*.lock.db
+*.mv.db
